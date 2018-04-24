@@ -3,6 +3,7 @@
   <head>
     <title>@yield('title', 'Sample')-简单站点</title>
     <link rel="stylesheet" href="/css/app.css">
+    <script type="text/javascript" src="/js/app.js"></script>
   </head>
   <body>
     @include('layouts._header')
